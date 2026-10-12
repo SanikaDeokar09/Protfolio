@@ -1,4 +1,4 @@
-# Sanika Deokar — White & Sky Blue Portfolio
+# Sanika Deokar — Protfolio
 
 Responsive React + Vite portfolio with a clean white canvas, sky-blue accents, smooth transitions, and scroll-reveal animations.
 
